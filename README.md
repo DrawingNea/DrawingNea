@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in the creation of stunning UI's. So,I'm learning **Three.js**
 
-- 📫 Feel free to reach me out **EveLcy@outlook.de**
+- 📫 Feel free to reach out to me: **EveLcy@outlook.de**
 <!--Intro end-->
 
 
